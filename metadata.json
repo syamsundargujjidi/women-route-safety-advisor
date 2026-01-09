@@ -1,0 +1,7 @@
+{
+  "name": "Women Route Safety Advisor",
+  "description": "A comprehensive safety companion for women travelers, providing safe route planning, real-time safety scores, nearby emergency points, and SOS features.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
