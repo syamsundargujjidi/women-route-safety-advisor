@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1_XgTueHzq-NoI1qZYyBeSLFVIj8vysWF
+View your app in AI Studio: https://women-route-safety-advisor-jwb8.vercel.app/
 
 ## Run Locally
 
